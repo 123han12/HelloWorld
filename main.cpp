@@ -24,5 +24,6 @@ int main()
     int arr[] = {12 , 4 , 89 , 43 , 21 , 78 } ;
     int size = sizeof(arr) / sizeof(int) ; 
     sort(arr , size ) ; 
+    for(int i = 0 ; i < size ; i ++ ) cout << "hello world" << endl ; 
     return 0 ; 
 }
