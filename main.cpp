@@ -15,6 +15,7 @@ void sort(int* arr , int size )
 				arr[j + 1] = arr[j] ;
 				arr[j] = temp ; 
 				cout << "hello" << endl ; 
+                cout << "hsa" << endl ; 
 			} 
 		}
 	}
