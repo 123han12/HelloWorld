@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std ; 
 
+// windows下的注释
 void sort(int* arr , int size ) 
 {
 	int temp = 0 ;
