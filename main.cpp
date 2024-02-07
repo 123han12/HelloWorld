@@ -14,7 +14,7 @@ void sort(int* arr , int size )
 				temp = arr[j + 1 ] ; 
 				arr[j + 1] = arr[j] ;
 				arr[j] = temp ; 
-				cout << "hello docker" << endl ; 
+				cout << "hello" << endl ; 
 			} 
 		}
 	}
