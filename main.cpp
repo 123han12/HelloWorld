@@ -5,6 +5,7 @@ using namespace std ;
 void sort(int* arr , int size ) 
 {
 	int temp = 0 ;
+	cout << "hello windows" << endl ; 
 	for(int i = 0 ; i < size - 1 ; ++ i ) 
 	{
 		for(int j = 0 ; j < size - i - 1 ; ++ j ) 
